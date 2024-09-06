@@ -1,0 +1,174 @@
+/* .Cities{
+    
+    width:100px;
+    height:100px; 
+    display: flex;
+    
+
+} */
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #e6f7ff;
+    /* background-color: lightgreen; */
+    /* background-color: #fafafa; */
+}
+
+
+.Cities{
+    display:flex;
+    justify-content: space-evenly;
+}
+.state{
+    justify-content:space-evenly;
+}
+
+
+
+.left_arrange img{
+    border-style: solid;
+    border-color: yellow;
+    border-radius: 16px;
+    display:flex;
+    /* justify-content: space-around; */
+
+}
+.right_arrange img{
+    border-style: solid;
+    border-color: yellow;
+    border-radius: 16px;
+    display:flex;
+    justify-content: space-around;
+
+}
+
+
+
+
+
+
+
+@media (max-width: 1920px) {
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #57fc15;
+    }
+
+    .Cities {
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    .state {
+        justify-content: space-evenly;
+    }
+
+    .left_arrange img {
+        border-style: solid;
+        border-color: pink;
+        border-radius: 12px;
+        display: flex;
+    }
+
+    .right_arrange img {
+        border-style: solid;
+        border-color: red;
+        border-radius: 12px;
+        display: flex;
+        justify-content: space-around;
+    }
+}
+``
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* #vizag{
+    border-style: solid;
+    border-color: yellow;
+    border-radius: 16px;
+
+}
+#bza{
+    border-style: solid;
+    border-color: yellow;
+    border-radius: 16px;
+
+} */
+/*h3.Cities{
+    margin-top:0px;
+    padding:0px;
+    border: 0;
+} */
+
+
+
+
+/* body {
+    font-family: Arial, sans-serif;
+}
+
+.cities-container {
+    display: flex;
+        /* Space between each item */   /* Center items vertically *//* Wrap items to the next line if needed *
+    align-items: center;
+    flex-wrap: wrap;      
+    padding: 20px;
+}
+
+.city-item {
+    text-align: center;
+    margin: 10px;
+}
+
+.city-item img {
+    max-width: 150px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.city-item h3 {
+    margin-top: 10px;
+    font-size: 16px;
+    color: blue;
+} */

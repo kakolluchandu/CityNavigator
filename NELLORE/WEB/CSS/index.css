@@ -1,0 +1,45 @@
+.categories{
+    display: flex;
+    justify-content: space-around;
+}
+
+.left img{
+    border-style: solid;
+    border-color:yellow;
+    display:flex;
+    border-radius: 16px;
+}
+
+
+
+.right img{
+    border-style: solid;
+    border-color:yellow;
+    border-radius: 16px;
+    display:flex;
+}
+
+
+.middle img{
+    
+        border-style: solid;
+        border-color:yellow;
+        border-radius: 16px;
+        display:flex;
+   
+    
+}
+
+
+
+
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #e6f7ff;
+    /* background-color: lightgreen; */
+    /* background-color: #fafafa; */
+}
+
+
+
